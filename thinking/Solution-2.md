@@ -28,7 +28,7 @@
 
 ​	f) x is equal 0.
 
-3. If all $\phi$ in the conjunction is true, the conjunction is true.
+3. If all $\phi$ in the conjunction are true, the conjunction is true.
 
 4. If any $\phi$ in the conjunction is false, the conjunction is false.
 
@@ -42,7 +42,7 @@
 
    d) $x\ge 0$
 
-   e) $(x>-3)\and(x\ne3)$
+   e) $(x>3)\or(x<-3)$
 
 6. 
 
@@ -57,7 +57,7 @@
    e) x is greater than -3 and not equal 3.
 
 7. If any $\phi$ of the disjunction is true, then the disjunction is true.
-8. If all $\phi$ of the disjunction is false, then the disjunction is false.
+8. If all $\phi$ of the disjunction are false, then the disjunction is false.
 
 9. 
 
@@ -87,9 +87,9 @@
 
     a) $D\and Y$
 
-    b) $(\neg Y \and \neg T)\and D$
+    b) $\neg Y \and T\and D$
 
-    c) $(Y \and \neg D)\or (\neg Y \and D)$
+    c) $\neg( Y \and D)$
 
     d) $T \or (\neg Y \and \neg D)$
 
