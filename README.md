@@ -1,3 +1,2 @@
 # mathematics
-learn well with math, and go around world with no fear!
-学好数理化，走遍天下都不怕！
+1. [Introduction for Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking/home/welcome)
